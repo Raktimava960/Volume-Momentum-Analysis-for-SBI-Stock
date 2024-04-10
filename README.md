@@ -1,5 +1,5 @@
-## Volume-Momentum-Analysis-for-SBI-Stock
-# Conducting volume rank analysis BY Machine Learning for SBI stock from Jan 1st to Jan 31st comparing daily volume data over the last 5 working days to assess relative volume strength."
+# Volume-Momentum-Analysis-for-SBI-Stock
+## Conducting volume rank analysis BY Machine Learning for SBI stock from Jan 1st to Jan 31st comparing daily volume data over the last 5 working days to assess relative volume strength."
 
  The "Volume Rank Analysis for SBI Stock" project focuses on analyzing the volume data of the SBI (State Bank of India) stock for a specific period (from 1st Jan 2024 till 31st Jan 2024) and ranking the volume based on comparison with the corresponding time for the last 5 working days. The analysis aims to provide insights into the relative volume strength of the stock at specific times of the day compared to previous days.
 
@@ -25,7 +25,7 @@ Pandas,
 Matplotlib or Seaborn,
 NumPy,
 
-# Usage:
+## Usage:
 * Clone the project repository.
 * Ensure that the required Python libraries are installed.
 * Run the Python script for data preprocessing and volume rank analysis.
